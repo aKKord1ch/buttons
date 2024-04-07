@@ -1,0 +1,23 @@
+.beauty{
+   box-shadow: rgba(50, 50, 50, 0.2) 0 5px 5px 0;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.app {
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	border: 1px solid brown;
+	padding: 10px;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: space-around;
+}
+
+.title {
+	text-align: center;
+	margin-top: 10px;
+}

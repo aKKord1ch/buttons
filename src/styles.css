@@ -1,0 +1,14 @@
+div {
+	border: 1px solid blue;
+	margin: 10px;
+	text-align: center;
+	min-width: 500px;
+
+}
+
+p {
+	width: 300px;
+	display: block;
+	height: 300px;
+}
+

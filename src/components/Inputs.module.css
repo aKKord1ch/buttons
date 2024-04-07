@@ -1,0 +1,25 @@
+.common-inputs{
+   color: brown;
+   border-radius: 5px;
+}
+
+.inp1 {
+   composes: beauty from "../App.module.css";
+   background-color: aquamarine;
+   width:50px;
+}
+
+.inp2 {
+   composes: beauty from "../App.module.css";
+   background-color: red;
+   width:50px;
+
+}
+
+.inp3 {
+   composes: beauty from "../App.module.css";
+   background-color: brown;
+   border: 2px solid yellowgreen;
+   width:50px;
+
+}
